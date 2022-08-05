@@ -8,11 +8,11 @@ export default function Home() {
       <Head>
         <title>{siteTitle}</title>
       </Head>
-      <section className=" text-primary-100 font-regular text-2xl">
+      <section className=" text-primary-200 font-regular text-2xl text-center">
         <p>We might have some problem...</p>
         <p>
-          It's okay, no need to cry, you just found our Missing Pages (yeaay). 
-          {' '} <section className='text-primary-300'>
+          No need to cry, you just found our Missing Pages. 
+          {' '} <section className='text-danger'>
           <a href="https:/vodea.id">Click here to visit home!</a>
           </section>
         </p>
