@@ -25,6 +25,10 @@ module.exports = {
       danger: '#FF5538' //Buat Warna Alert
       
     },
+    fontFamily:{
+      display :['Epilogue', 'sans-serif'],
+      body: ['Epilogue', 'sans-serif']
+    },
     extend: {},
   },
   plugins: [],
