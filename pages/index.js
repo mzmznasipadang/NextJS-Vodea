@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
         <title>{siteTitle}</title>
       </Head>
-      <section className={utilStyles.headingMd}>
+      <section className="display color-primary-100">
         <p>Victor Chandra</p>
         <p>
           Hello there, My name is Victor and this is the fudamental build with documentation for{' '}

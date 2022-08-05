@@ -29,6 +29,7 @@ module.exports = {
       display :['Epilogue', 'sans-serif'],
       body: ['Epilogue', 'sans-serif']
     },
+    
     extend: {},
   },
   plugins: [],
