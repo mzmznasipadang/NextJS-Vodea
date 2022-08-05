@@ -8,11 +8,13 @@ export default function Home() {
       <Head>
         <title>{siteTitle}</title>
       </Head>
-      <section className=" color-text font-regular text-xl">
-        <p>Victor Chandra</p>
+      <section className=" text-primary-100 font-regular text-2xl">
+        <p>We might have some problem...</p>
         <p>
-          Hello there, My name is Victor and this is the fudamental build with documentation for{' '}
-          <a href="https:/vodea.id">Vodea New Web</a>.
+          It's okay, no need to cry, you just found our Missing Pages (yeaay). 
+          {' '} <section className='text-primary-300'>
+          <a href="https:/vodea.id">Click here to visit home!</a>
+          </section>
         </p>
       </section>
     </Layout>
