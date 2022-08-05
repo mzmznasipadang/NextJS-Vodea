@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
         <title>{siteTitle}</title>
       </Head>
-      <section className="text-primary-100 font-regular text-3xl">
+      <section className=" color-text font-regular text-xl">
         <p>Victor Chandra</p>
         <p>
           Hello there, My name is Victor and this is the fudamental build with documentation for{' '}
